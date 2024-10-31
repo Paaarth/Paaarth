@@ -24,7 +24,7 @@ I am actively seeking **freelance opportunities** and collaborations on **Angula
 Feel free to reach out if you'd like to collaborate on projects or just want to chat about JavaScript development!
 
 - [LinkedIn](https://www.linkedin.com/in/parth-raval/)
-- [Github] (https://github.com/Paaarth)
+- [Github](https://github.com/Paaarth)
 - [StackOverflow](https://stackoverflow.com/users/5734387/parth-raval)
 
 Thank you for visiting my profile! 🚀
