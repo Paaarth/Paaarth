@@ -53,7 +53,6 @@ I’d love to connect with recruiters, hiring managers, and fellow developers. W
 - **LinkedIn**: [Parth Raval](https://www.linkedin.com/in/parth-raval/)
 - **GitHub**: [Paaarth](https://github.com/Paaarth)
 - **Stack Overflow**: [Parth Raval](https://stackoverflow.com/users/5734387/parth-raval)
-- **Email**: [Your Email Address]
 
 ---
 
