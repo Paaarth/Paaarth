@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Parth Raval!
 
-I'm a seasoned **JavaScript Developer** with **8 years of experience** in building dynamic, scalable, and responsive web applications. My expertise spans across various JavaScript frameworks, libraries, and modern development practices, enabling me to deliver high-quality solutions that align with both user needs and business objectives. I am passionate about leading teams, mentoring developers, and driving technical excellence in projects.
+I'm a seasoned **JavaScript Developer** with **8 years of experience** in building dynamic, scalable, and responsive web applications.
 
 ## 📬 **Let's Connect!**
 - **LinkedIn**: [Parth Raval](https://www.linkedin.com/in/parth-raval/)
